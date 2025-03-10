@@ -7,7 +7,7 @@ This case study explores how data analysis can be used to improve the profitabil
 The primary goal of this study is to identify the factors influencing student attendance and revenue trends, proposing data-driven strategies to maximize profit.
 
 **Data Used:**
-- Historical weather conditions (last 12 months)
+- Historical weather conditions (last 3 years)
 - Student attendance in courses
 - Course fees and their variations over time
 - Revenue from the student shuttle service

@@ -42,8 +42,6 @@ The above chart visualizes the relationship between student attendance and weath
 
 4. **Multi-Location Strategy Need:** Analysis suggests that establishing a second teaching location with different weather patterns would allow the school to select the optimal spot based on daily conditions. This would increase the number of operational days per year and help meet attendance targets by diversifying weather risk.
 
-These insights validate our approach to develop weather-based pricing models and scheduling strategies, demonstrating the critical importance of incorporating weather forecasting into business planning.
-
 ## Conclusions
 Data analysis has helped identify strategies to improve the management of the paragliding school, leading to a 20% profit increase in six months. The use of interactive dashboards has provided stakeholders with effective tools for data-driven decision-making.
 

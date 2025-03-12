@@ -34,13 +34,13 @@ The above chart visualizes the relationship between student attendance and weath
 
 1. **Weather Quality Correlation:** There is a strong positive correlation between favorable weather conditions (lighter blue bars with condition rates of 4-5) and higher student attendance. Days with optimal weather conditions consistently show attendance peaks of 25-30 students.
 
-2. **Seasonal Patterns:** The data reveals clear seasonal patterns with higher attendance during certain months, particularly visible in early spring and summer periods.
+2. **Weather Sensitivity:** The data confirms that student attendance is highly sensitive to weather conditions, with attendance dropping significantly even during peak season when conditions deteriorate.
 
-3. **Low Attendance Triggers:** Days with poor weather conditions (dark blue bars with condition rates of 0-1) show minimal student presence, even during typically high-demand seasons.
+3. **Insufficient Annual Lessons:** Despite the observed correlation between favorable weather and attendance, the total number of annual lessons remains significantly below the school's target (70). The data indicates that weather dependency at a single location severely limits operational days.
 
-4. **Attendance Spikes:** The highest attendance spike occurred in early 2023, coinciding with excellent weather conditions (condition rate 5), reaching nearly 30 students.
+![Number of lessons per year](image/lesson_per_year.png)
 
-5. **Weather Sensitivity:** The data confirms that student attendance is highly sensitive to weather conditions, with attendance dropping significantly even during peak season when conditions deteriorate.
+4. **Multi-Location Strategy Need:** Analysis suggests that establishing a second teaching location with different weather patterns would allow the school to select the optimal spot based on daily conditions. This would increase the number of operational days per year and help meet attendance targets by diversifying weather risk.
 
 These insights validate our approach to develop weather-based pricing models and scheduling strategies, demonstrating the critical importance of incorporating weather forecasting into business planning.
 
@@ -53,3 +53,5 @@ Data analysis has helped identify strategies to improve the management of the pa
 - Automation of reporting for real-time monitoring of financial and operational performance.
 - Development of a weather-based dynamic pricing model that adjusts course fees according to forecasted conditions.
 - Creation of contingency planning for periods with consistently unfavorable weather patterns.
+- **Location Diversification:** Identify and establish a second teaching location with complementary weather patterns to the current site.
+- **Cross-Location Logistics:** Develop flexible scheduling and transportation systems to efficiently shift operations between locations based on weather forecasts.

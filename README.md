@@ -28,7 +28,7 @@ The primary goal of this study is to identify the factors influencing student at
 - Proposals for promotional packages based on attendance data and favorable weather conditions.
 
 ## Weather Impact Analysis
-![Student presence in relation to weather conditions](image/weather_attendance_chart.png)
+![Student presence in relation to weather conditions](image/Studen_weather_analisys.png)
 
 The above chart visualizes the relationship between student attendance and weather conditions over a three-year period (2021-2024). Several key patterns emerge:
 

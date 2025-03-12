@@ -36,7 +36,7 @@ The above chart visualizes the relationship between student attendance and weath
 
 2. **Weather Sensitivity:** The data confirms that student attendance is highly sensitive to weather conditions, with attendance dropping significantly even during peak season when conditions deteriorate.
 
-3. **Insufficient Annual Lessons:** Despite the observed correlation between favorable weather and attendance, the total number of annual lessons remains significantly below the school's target (70). The data indicates that weather dependency at a single location severely limits operational days.
+3. **Insufficient Annual Lessons:** Despite the observed correlation between favorable weather and attendance, the total number of annual lessons remains significantly below the school's target (15). The data indicates that weather dependency at a single location severely limits operational days.
 
 ![Number of lessons per year](image/lesson_per_year.png)
 

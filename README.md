@@ -18,7 +18,7 @@ The primary goal of this study is to identify the factors influencing student at
 2. **Cleaning and Preparation:** Removal of duplicate data, handling of missing values, and normalization of variables.
 3. **Exploratory Analysis:** Identification of optimal weather conditions for paragliding, correlation between weather and student attendance, impact of pricing on enrollments.
 4. **Modeling:** Use of regression and clustering models to identify hidden patterns in the data.
-5. **Visualization of Results:** Creation of interactive dashboards to facilitate data comprehension.
+5. **Visualization of Results:** Creation of charts to facilitate data comprehension.
 6. **Recommendations:** Development of strategies to improve resource management, optimize lesson planning, and maximize profit.
 
 ## Results and Insights

@@ -43,7 +43,7 @@ The above chart visualizes the relationship between student attendance and weath
 4. **Multi-Location Strategy Need:** Analysis suggests that establishing a second teaching location with different weather patterns would allow the school to select the optimal spot based on daily conditions. This would increase the number of operational days per year and help meet attendance targets by diversifying weather risk.
 
 ## Incomes distribution
-![Number of lessons per year](image/Student Income vs Shuttle Income.png)
+![Student Income vs Shuttle Income](image/Student_Income_vs_Shuttle_Income.png)
 
 The analysis of income distribution reveals a significant imbalance between the paragliding school's revenue streams:
 

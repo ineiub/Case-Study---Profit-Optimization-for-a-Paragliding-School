@@ -73,7 +73,7 @@ The analysis of income distribution reveals a significant imbalance between the 
 Implementing these strategies would not only increase shuttle service revenue but also improve the overall customer experience, potentially increasing retention and attracting new students. Additionally, expanding the service to non-student pilots would tap into an entirely new market segment, further diversifying income sources and maximizing the utilization of existing transportation resources.
 
 ## Conclusions
-Data analysis has helped identify strategies to improve the management of the paragliding school, leading to a 20% profit increase in six months. The use of interactive dashboards has provided stakeholders with effective tools for data-driven decision-making.
+Data analysis has revealed key strategies to improve the management of the paragliding school, leading to a 20% profit increase in six months. The analysis showed that student attendance is strongly correlated with weather conditions, with peaks of 25-30 students during days with optimal conditions. However, the analysis also highlighted an excessive dependence on a single income source (90% from lessons) and underutilization of the shuttle service (only 10% of revenue). The use of interactive dashboards has provided stakeholders with effective tools for data-driven decision-making, allowing them to identify opportunities for revenue diversification and optimization of lesson planning based on weather conditions.
 
 ## Next Steps
 - Implementation of a predictive system for demand based on weather conditions.
@@ -81,5 +81,9 @@ Data analysis has helped identify strategies to improve the management of the pa
 - Automation of reporting for real-time monitoring of financial and operational performance.
 - Development of a weather-based dynamic pricing model that adjusts course fees according to forecasted conditions.
 - Creation of contingency planning for periods with consistently unfavorable weather patterns.
-- **Location Diversification:** Identify and establish a second teaching location with complementary weather patterns to the current site.
+- **Location Diversification:** Identify and establish a second teaching location with complementary weather patterns to the current site, allowing for an increase in the number of operational days per year.
 - **Cross-Location Logistics:** Develop flexible scheduling and transportation systems to efficiently shift operations between locations based on weather forecasts.
+- **Shuttle Service Expansion:** Extend the service to non-student paragliding pilots, creating tiered pricing plans and an easy booking system.
+- **Advertising Campaign:** Develop a specific campaign to promote the shuttle service, highlighting benefits such as comfort, safety, and practice time optimization.
+- **Loyalty Programs:** Implement a loyalty program for frequent users of the shuttle service.
+- **Combined Packages:** Create offers that include both course and shuttle service with attractive discounts to diversify income sources.
